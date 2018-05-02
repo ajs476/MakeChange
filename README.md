@@ -6,7 +6,7 @@ MakeChange is a Java project that aims to display the least amount of coins need
 
 You can import this project directly into Eclipse by navigating to Eclipse->File->Import->Git and entering this repositories URI. Once you have the project imported you should be able to just Run the project and view the reults in the Eclipse console. 
 
-If you are not using Eclipse, the src folder of this repository contains all the Java files needed (Main, ChangeHandler, and Coin). Setup the files/package however you prefer then compile the Main.java file using: 'javac Main.class' then run the generated Java file Main.java using: 'Java Main'.
+If you are not using Eclipse, the src folder of this repository contains all the Java files needed (Main, ChangeHandler, and Coin). Setup the files/package however you prefer then compile the Main.java file using: 'javac Main.java' then run the generated Java file Main.java using: 'Java Main'.
 
 ### Prerequisites
 
