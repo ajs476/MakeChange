@@ -10,7 +10,7 @@ If you are not using Eclipse, the src folder of this repository contains all the
 
 ### Prerequisites
 
-This is a Java project so you will need to be able to execute Java files on your machine in order to successfully run MakeChange.  As stated before I used Eclipse to create, develop, and test this project so I reccomend importing this project direcly into Eclipse.
+This is a Java project so you will need to be able to execute Java files on your machine in order to successfully run MakeChange.  As stated before I used Eclipse to create, develop, and test this project so I recommend importing this project direcly into Eclipse.
 
 ```
 Get Eclipse from: https://www.eclipse.org/downloads/
@@ -26,8 +26,8 @@ Get Eclipse from: https://www.eclipse.org/downloads/
 
 * **Alexander Sears**
 
-## Screenshots of expected use
-* Here you can see the console output of the makeChange() method making change using the 'standard' US coins: Quarter, Dime, Nickel, and Penny
+## Screenshots of what to expect
+* Here you can see the console output of the makeChange() method making change using the 'standard' US coins: Quarter, Dime, Nickel, and Penny.
 ![Screenshot of normal coins in use](../master/screenshots/grab_1.png)
-* And here you can see the console output of the makeChange() method making change using the 'standard' US coins alongside the 'extra' coins created by the user.
+* And here you can see the console output of the makeChange() method making change using the 'standard' US coins alongside the 'extra' coins created by the user. You can use any amount of coins with any value and the makeChange() method will run perfectly fine.
 ![Screenshot of user-generated coins in use](../master/screenshots/grab_2.png)
